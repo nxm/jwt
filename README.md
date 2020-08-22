@@ -8,6 +8,6 @@ Implementing Json Web Tokens in go backend
 
 ## Used libraries
 
-(Redis)[github.com/go-redis/redis]
-(Gin backend)[github.com/gin-gonic/gin]
-(JWT Lib)[github.com/dgrijalva/jwt-go]
+[Redis](github.com/go-redis/redis)
+[Gin backend](github.com/gin-gonic/gin)
+[JWT Lib](github.com/dgrijalva/jwt-go)
