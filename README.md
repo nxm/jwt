@@ -5,3 +5,9 @@ Implementing Json Web Tokens in go backend
 
 ### Access Token - to doing any stuff
 ### Refresh Token - to refresh access token ;)
+
+## Used libraries
+
+(Redis)[github.com/go-redis/redis]
+(Gin backend)[github.com/gin-gonic/gin]
+(JWT Lib)[github.com/dgrijalva/jwt-go]
